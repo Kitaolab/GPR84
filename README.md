@@ -9,4 +9,6 @@ This repository provides the input and output of the MD simulations for the pape
 #### 2 School of Life Science and Technology, Institute of Science Tokyo, 2-12-1 Ookayama, Meguro-ku, 152–8550, Tokyo, Japan
 #### 3 Tokyo University of Agriculture and Technology, Tokyo 183-8538, Japan
 
+---
 
+In each folder, the file <abc>.input.gro is the initial configuration for MD simulation while the <abc>.output.1microsec.gro is among the last snapshot of 1 microsecond MD simulation.
