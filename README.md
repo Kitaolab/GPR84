@@ -12,3 +12,5 @@ This repository provides the input and output of the MD simulations for the pape
 ---
 
 In each folder, the file < abc >.input.gro is the initial configuration for MD simulation while the < abc >.output.1microsec.gro is among the last snapshot of 1 microsecond MD simulation.
+
+The apo state input and output files are compressed into zip file.
